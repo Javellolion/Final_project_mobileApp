@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1031899319245</string>
+    <string name="google_api_key" translatable="false">AIzaSyCoulSf00VQiTxomOQeVI9ggOqpv0-JecI</string>
+    <string name="google_app_id" translatable="false">1:1031899319245:android:3e80052ce6aaa2504d5284</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoulSf00VQiTxomOQeVI9ggOqpv0-JecI</string>
+    <string name="google_storage_bucket" translatable="false">my-mood-app-578b9.appspot.com</string>
+    <string name="project_id" translatable="false">my-mood-app-578b9</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

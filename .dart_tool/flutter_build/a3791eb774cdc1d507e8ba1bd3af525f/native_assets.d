@@ -1,0 +1,1 @@
+ C:\\Users\\jinna\\Github_local\\Mobile_App\\Final_project_mobileApp\\.dart_tool\\flutter_build\\a3791eb774cdc1d507e8ba1bd3af525f\\native_assets.yaml: 
